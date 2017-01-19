@@ -1,0 +1,24 @@
+{
+	"name":         "todo",
+	"description":  "todo",
+	"version":      "0.1.0",
+	"main":         "index.js",
+	"files":        ["index.js"],
+	"keywords":     ["todo"],
+	"author":       "Jannis R <mail@jannisr.de>",
+	"homepage":     "https://github.com/derhuerst/todo",
+	"repository":   "derhuerst/todo",
+	"bugs":         "https://github.com/derhuerst/todo/issues",
+	"license":      "ISC",
+	"engines":      {"node": ">=6"},
+	"dependencies": {
+	},
+	"devDependencies": {
+		"tape": "^4.6.3",
+		"tap-min": "derhuerst/tap-min"
+	},
+	"scripts": {
+		"test": "node test.js | tap-min",
+		"prepublish": "npm test"
+	}
+}
