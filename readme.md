@@ -1,17 +1,17 @@
-# todo
+# todo-name
 
 **Boilerplate for modules I write.**
 
-[![npm version](https://img.shields.io/npm/v/todo.svg)](https://www.npmjs.com/package/todo)
-[![build status](https://img.shields.io/travis/derhuerst/todo.svg)](https://travis-ci.org/derhuerst/todo)
-![ISC-licensed](https://img.shields.io/github/license/derhuerst/todo.svg)
+[![npm version](https://img.shields.io/npm/v/todo-name.svg)](https://www.npmjs.com/package/todo-name)
+[![build status](https://img.shields.io/travis/derhuerst/todo-name.svg)](https://travis-ci.org/derhuerst/todo-name)
+![ISC-licensed](https://img.shields.io/github/license/derhuerst/todo-name.svg)
 [![chat on gitter](https://badges.gitter.im/derhuerst.svg)](https://gitter.im/derhuerst)
 
 
 ## Installing
 
 ```shell
-npm install derhuerst/todo
+npm install derhuerst/todo-name
 ```
 
 
@@ -24,4 +24,4 @@ todo
 
 ## Contributing
 
-If you **have a question**, **found a bug** or want to **propose a feature**, have a look at [the issues page](https://github.com/derhuerst/todo/issues).
+If you have a question or have difficulties using `todo-name`, please double-check your code and setup first. If you think you have found a bug or want to propose a feature, refer to [the issues page](https://github.com/derhuerst/todo-name/issues).

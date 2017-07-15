@@ -1,6 +1,6 @@
 {
-	"name": "todo",
-	"description": "todo",
+	"name": "todo-name",
+	"description": "todo-description",
 	"version": "0.1.0",
 	"main": "index.js",
 	"files": [
@@ -10,9 +10,9 @@
 		"todo"
 	],
 	"author": "Jannis R <mail@jannisr.de>",
-	"homepage": "https://github.com/derhuerst/todo",
-	"repository": "derhuerst/todo",
-	"bugs": "https://github.com/derhuerst/todo/issues",
+	"homepage": "https://github.com/derhuerst/todo-name",
+	"repository": "derhuerst/todo-name",
+	"bugs": "https://github.com/derhuerst/todo-name/issues",
 	"license": "ISC",
 	"engines": {
 		"node": ">=6"
