@@ -20,11 +20,11 @@
 	"dependencies": {
 	},
 	"devDependencies": {
-		"tape": "^4.8.0",
-		"tap-min": "^1.2.2"
+		"tap-min": "^1.2.2",
+		"tape": "^4.8.0"
 	},
 	"scripts": {
-		"test": "node test.js | tap-min",
+		"test": "env NODE_ENV=dev node test.js | tap-min",
 		"prepublishOnly": "npm test"
 	}
 }
