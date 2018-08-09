@@ -6,5 +6,5 @@ node_modules
 npm-debug.log
 pnpm-debug.log
 
-package-lock.json
-shrinkwrap.yaml
+/package-lock.json
+/shrinkwrap.yaml
