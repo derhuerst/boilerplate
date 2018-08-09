@@ -9,7 +9,7 @@
 [![support me on Patreon](https://img.shields.io/badge/support%20me-on%20patreon-fa7664.svg)](https://patreon.com/derhuerst)
 
 
-## Installing
+## Installation
 
 ```shell
 npm install derhuerst/todo-name
@@ -25,4 +25,4 @@ todo
 
 ## Contributing
 
-If you have a question or have difficulties using `todo-name`, please double-check your code and setup first. If you think you have found a bug or want to propose a feature, refer to [the issues page](https://github.com/derhuerst/todo-name/issues).
+If you have a question or need support using `todo-name`, please double-check your code and setup first. If you think you have found a bug or want to propose a feature, refer to [the issues page](https://github.com/derhuerst/todo-name/issues).

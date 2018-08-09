@@ -1,7 +1,7 @@
 {
 	"name": "todo-name",
 	"description": "todo-description",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"main": "index.js",
 	"files": [
 		"index.js"
@@ -21,7 +21,7 @@
 	},
 	"devDependencies": {
 		"tap-min": "^1.2.2",
-		"tape": "^4.8.0"
+		"tape": "^4.9.1"
 	},
 	"scripts": {
 		"test": "env NODE_ENV=dev node test.js | tap-min",
