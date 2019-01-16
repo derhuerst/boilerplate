@@ -15,7 +15,7 @@
 	"bugs": "https://github.com/derhuerst/todo-name/issues",
 	"license": "ISC",
 	"engines": {
-		"node": ">=6"
+		"node": ">=8"
 	},
 	"dependencies": {
 	},
