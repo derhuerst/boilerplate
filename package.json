@@ -21,8 +21,8 @@
 	"dependencies": {
 	},
 	"devDependencies": {
-		"tap-min": "^1.2.2",
-		"tape": "^4.9.1"
+		"tap-min": "^2.0.0",
+		"tape": "^4.10.1"
 	},
 	"scripts": {
 		"test": "env NODE_ENV=dev node test.js | tap-min",
