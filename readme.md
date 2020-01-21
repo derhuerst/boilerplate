@@ -26,4 +26,4 @@ todo
 
 ## Contributing
 
-If you have a question or need support using `todo-name`, please double-check your code and setup first. If you think you have found a bug or want to propose a feature, refer to [the issues page](https://github.com/derhuerst/todo-name/issues).
+If you have a question or need support using `todo-name`, please double-check your code and setup first. If you think you have found a bug or want to propose a feature, use [the issues page](https://github.com/derhuerst/todo-name/issues).
