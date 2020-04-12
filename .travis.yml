@@ -4,6 +4,9 @@ node_js:
   - 'stable'
   - 'lts/*'
   - '10'
+script:
+  - 'npm test'
+  - 'npm run lint'
 cache: npm
 notifications:
   email:
