@@ -1,9 +1,9 @@
 language: node_js
 os: linux
 node_js:
-  - 'stable'
+  - node
   - 'lts/*'
-  - '10'
+  - '12'
 script:
   - 'npm test'
   - 'npm run lint'
