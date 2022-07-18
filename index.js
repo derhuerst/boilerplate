@@ -1,3 +1,5 @@
-'use strict'
-
 // todo
+
+export {
+	// todo
+}

@@ -2,6 +2,7 @@
 	"name": "todo-name",
 	"description": "todo-description",
 	"version": "1.0.0",
+	"type": "module",
 	"main": "index.js",
 	"files": [
 		"index.js",
