@@ -6,7 +6,7 @@
 	"main": "index.js",
 	"files": [
 		"index.js",
-		"example.js"
+		"demo.js"
 	],
 	"keywords": [
 		"todo"
